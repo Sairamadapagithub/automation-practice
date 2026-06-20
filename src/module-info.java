@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author adapa
+ *
+ */
+module JavaPractive {
+}
