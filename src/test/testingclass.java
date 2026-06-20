@@ -8,7 +8,7 @@ public class testingclass {
 	System.out.println("output2");
 	System.out.println("output3");
 	System.out.println("output4");
-	System.out.println("Automationcode");
+	System.out.println("Automationcodetest");
 
 	
 	
